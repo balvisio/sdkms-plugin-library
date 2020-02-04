@@ -1,0 +1,1 @@
+This plugin implements hierarchical deterministic wallets (or "HD Wallets") BIP0032 protocol.
