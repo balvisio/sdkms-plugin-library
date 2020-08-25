@@ -1,0 +1,2 @@
+script:
+  - ./ct.sh
